@@ -3,7 +3,7 @@ const typed = new Typed('.typed', {
         'ventas reales',  
         'nuevos clientes',
         'leads auténticos', 
-        'mas juntas de ventas',
+        'más juntas de ventas',
         'audiencias perdurables', 
         'diferenciación en el mercado'
     ],
