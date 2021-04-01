@@ -417,4 +417,7 @@ a{
     .second_element_domain img{
         display: none;
     }
+    #menu{
+        font-size: 0.75em;
+    }
 }
