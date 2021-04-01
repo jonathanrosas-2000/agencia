@@ -318,7 +318,8 @@ a{
 /* ----------- Media querys ---------------- */
 @media( max-width: 926px){
     .hero_heading{
-        font-size: 1.75em;
+        font-size: 1.5em !important;
+        color: white !important;
     }
     .contact_header{
         font-size: 22px;
@@ -406,6 +407,9 @@ a{
     }
     .second_element{
         display: none;
+    }
+    .ourteam_text{
+        width: 102%;
     }
 }
 
