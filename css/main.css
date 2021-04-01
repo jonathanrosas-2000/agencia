@@ -333,6 +333,10 @@ a{
     }
 }
 @media( max-width: 700px){
+    .hero_heading{
+        font-size: 1.2em !important;
+        color: white !important;
+    }
     .img_hero_fondo{
         display: none;
     }
